@@ -34,7 +34,7 @@
 */
 
 // Define base and accent colors
-$base-color: #3498db;
+$base-color: #677985;
 $base-color-hover: darken($base-color, 10%);
 
 // Define background colors
@@ -656,8 +656,8 @@ footer {
 
 .project-info {
     position: absolute;
-    top: 50%;
-    transform: translateY(-50%);
+    //top: 50%;
+    //transform: translateY(-50%);
     margin-left: 300px;
     padding: 15px;
 
